@@ -1,0 +1,1 @@
+Generar 5 persojaes de Harry Potter con lafinalidad de practicar la creacion de objetos y de usar los metodos setters y getters, que nos ayudan a la mejora y el mejor entendimientos de estos objetos
